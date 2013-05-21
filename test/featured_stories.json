@@ -1,0 +1,24 @@
+var stories = {"content": [{
+  "title": "Title1",
+  "image": "image.jpg",
+  "description": "description",
+  "unique_id": "cofan",
+  "link": "link.htmlblah",
+  "google_spreadsheet_id": "blah"
+},
+{
+  "title": "Title2",
+  "image": "image.jpg",
+  "description": "description",
+  "unique_id": "cofan",
+  "link": "link.htmlblah",
+  "google_spreadsheet_id": "blah"
+},
+{
+  "title": "Title3",
+  "image": "image.jpg",
+  "description": "description",
+  "unique_id": "cofan",
+  "link": "link.htmlblah",
+  "google_spreadsheet_id": "blah"
+}]};
